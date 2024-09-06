@@ -1,5 +1,5 @@
 The Potato Disease Classification project is a application that uses Convolutional Neural Networks (CNNs) to classify potato leaf images into categories such as 'Early Blight,' 'Late Blight,' or 'Healthy.' The project leverages TensorFlow and Keras for building and training the CNN, and Gradio for creating an intuitive user interface for real-time image classification.
-
+You can also access the live demo on Hugging Face Spaces: [Potato Disease Classifier](https://huggingface.co/spaces/SRINI123/potato-disease-classifier).
 ## Features
 
 - **Image Classification:** Classifies potato leaf images into disease categories using a trained CNN model.
