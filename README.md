@@ -7,3 +7,5 @@ The Potato Disease Classification project is a application that uses Convolution
 - **Visual Metrics:** Training metrics such as accuracy and loss are visualized using Matplotlib.
 ![image](https://github.com/user-attachments/assets/d622f6cc-9b5f-4191-a348-c1c843f5ce1e)
 ![image](https://github.com/user-attachments/assets/9c9a81da-005f-428c-bee9-0dd6e8e958b2)
+
+https://huggingface.co/spaces/SRINI123/potato-disease-classifier
